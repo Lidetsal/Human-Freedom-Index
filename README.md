@@ -10,11 +10,11 @@ Using the human freedom index, this project assessed the relationships between f
 
 - [Exploratory Analysis](https://github.com/Lidetsal/MOD4_Project/blob/master/exploratory_data_analysis.ipynb) - Shows outliers, distributions, mean and standard deviation of the independent variable and dependent variable.
 
-- [Freedom Index Map](https://github.com/Lidetsal/MOD4_Project/blob/master/freedom_index_map.ipynb) - A map of all the countries and their index score.
+- [Freedom Index Map](https://github.com/Lidetsal/MOD4_Project/blob/master/freedom_index_map.ipynb) - Shows html code of the map created to shows all countries with their human freedom score.
 
 - [Python File](https://github.com/Lidetsal/MOD4_Project/blob/master/functions.py) - Holds useful varibales and functions.
 
-- [Human Freedom Map HTML](https://github.com/Lidetsal/MOD4_Project/blob/master/humanFreedomScoreMap.html) - Shows html code of the map created to shows all countries with their human freedom score.
+- [Human Freedom Map HTML](https://github.com/Lidetsal/MOD4_Project/blob/master/humanFreedomScoreMap.html) - A map of all the countries and their index score.
 
 - [Regression](https://github.com/Lidetsal/MOD4_Project/blob/master/regression.ipynb) - Shows 5 assumptions, training and testing sets, linear regression, and different transformations/comparisions of the data.
 
