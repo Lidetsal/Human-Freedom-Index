@@ -31,9 +31,6 @@ Map of Countries Human Freedom Index Score:
 - [Zaki Jefferson](https://github.com/jeffersonzaki)
 
 
-## Project Scenario
-We are a non government organization that conduct research and generate action to prevent abuses of human rights and to demand justice for those whose rights have been violated. We are approaching the United Nations Development Programme to help guide aide to where it is most needed using the recent human freedom index score.Over the past 5 years the Human Freedom Index score, for many countries has decreased. Our study aims to find significant contributors of freedom globally, as it is measured by the human freedom index score variables. 
-
 ## Responsibilities/Task:
 [Lidet Alemu](https://github.com/Lidetsal)
 - Collected Data 
