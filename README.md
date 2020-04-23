@@ -1,5 +1,5 @@
 # Human Freedom Index 
-Using the human freedom index , this project aimed to assess the relationships between freedom and other social, political and economic factors that impact a country’s freedom score. Using a Regression model, we are aiming to understand phenomenons that have a strong correlation with a higher freedom score.
+The project uses the human freedom index(HFI) - the most comprehensive freedom index for globally meaningful set of countries to identify strong indicators of a nation's freedom score. The index ranks countries freedom score based on a broad measure that encompasses personal, civil, and economic freedom. This project assess the impact of social, political and economic factors on freedom and the level of their impact. 
 
 Map of Countries Human Freedom Index Score:
 <p align="center">
